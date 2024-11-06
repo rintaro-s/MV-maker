@@ -5,6 +5,9 @@ song : Hate you /RIELL & jim yosef /  https://www.youtube.com/watch?v=Qg-cGaE16L
 <h2>使い方</h2>
 
 １，proseccingをインストール
+
 ２，コードをダウンロードして開く
+
 ３，コードの中にパスを指定する箇所がああるので編集
+
 ４，実行すると動画が再生されるのでレコーディングする
